@@ -112,8 +112,7 @@ In a production environment, PostgreSQL with managed migrations would be preferr
 ### 🎥 Demo
 
 Loom walkthrough:  
-[https://www.loom.com/share/f3cac268939d4b3c950c41f421619eda] (https://www.loom.com/share/f3cac268939d4b3c950c41f421619eda)
-
+https://www.loom.com/share/f3cac268939d4b3c950c41f421619eda
 ---
 
 ### Author
